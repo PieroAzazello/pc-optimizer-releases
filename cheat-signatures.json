@@ -30,5 +30,15 @@
     "keywords": ["predator mod menu"],
     "en": "Predator: an online GTA Online mod menu. Using it online leads to Rockstar bans.",
     "uk": "Predator: онлайн чит-меню для GTA Online. Використання онлайн призводить до банів Rockstar."
+  },
+  {
+    "id": "vanish",
+    "name": "Vanish",
+    "sev": "menu",
+    "files": ["vanish.exe", "vanishmenu.exe", "vanish mod menu.exe", "vanish.dll"],
+    "keywords": ["vanish menu", "vanish mod menu", "vanish.gg"],
+    "paths": ["%APPDATA%\\Vanish", "%LOCALAPPDATA%\\Vanish"],
+    "en": "Vanish: an online GTA Online mod menu. Using it online leads to Rockstar bans.",
+    "uk": "Vanish: онлайн чит-меню для GTA Online. Використання онлайн призводить до банів Rockstar."
   }
 ]
