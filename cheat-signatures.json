@@ -1,0 +1,34 @@
+[
+  {
+    "_comment": "Обновляемая база сигнатур читов GTA V для PC Optimizer. Приложение тянет этот файл при каждом сканировании и добавляет записи к встроенной базе — можно пополнять без пересборки программы. Схема записи: id (уникальный), name, sev (menu|inject|trainer|tool), files (точные имена файлов в нижнем регистре), keywords (для реестра/названий), paths (папки-признаки; поддерживаются %APPDATA%/%LOCALAPPDATA%), folders (папки в корне GTA), en, uk, danger (0-100, опционально). Записи без id и name игнорируются. Чтобы не было ложных срабатываний, избегайте общих имён вроде rise.exe — используйте характерные (risemenu.exe).",
+    "id": null,
+    "name": null
+  },
+  {
+    "id": "slipstream",
+    "name": "Slipstream",
+    "sev": "menu",
+    "files": ["slipstreammenu.exe", "slipstream mod menu.exe"],
+    "keywords": ["slipstream menu", "slipstream mod menu"],
+    "en": "Slipstream: an online GTA Online mod menu. Using it online leads to Rockstar bans.",
+    "uk": "Slipstream: онлайн чит-меню для GTA Online. Використання онлайн призводить до банів Rockstar."
+  },
+  {
+    "id": "weight",
+    "name": "Weight",
+    "sev": "menu",
+    "files": ["weightmenu.exe"],
+    "keywords": ["weight.gg", "weight mod menu"],
+    "en": "Weight: an online GTA Online mod menu. Using it online leads to Rockstar bans.",
+    "uk": "Weight: онлайн чит-меню для GTA Online. Використання онлайн призводить до банів Rockstar."
+  },
+  {
+    "id": "predator",
+    "name": "Predator",
+    "sev": "menu",
+    "files": ["predatormenu.exe", "predator mod menu.exe"],
+    "keywords": ["predator mod menu"],
+    "en": "Predator: an online GTA Online mod menu. Using it online leads to Rockstar bans.",
+    "uk": "Predator: онлайн чит-меню для GTA Online. Використання онлайн призводить до банів Rockstar."
+  }
+]
